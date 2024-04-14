@@ -1,0 +1,8 @@
+{
+    "httpMethod": "POST",
+    "body": "{\"user_name\":\"Chandu\", \"user_email\":\"mail@chandu-sasidharan.de\", \"message\":\"Test!!!\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+}
+  

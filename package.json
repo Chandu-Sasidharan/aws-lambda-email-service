@@ -1,0 +1,16 @@
+{
+  "name": "aws-lambda-email-service",
+  "version": "1.0.0",
+  "description": "An email service using Resend to be deployed on AWS Lambda.",
+  "main": "index.js",
+  "scripts": {
+    "zip": "zip -r deployment-package.zip . -x '*.git*'"
+  },
+  "keywords": [],
+  "author": "Chandu Sasidharan",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "resend": "^3.2.0"
+  }
+}
