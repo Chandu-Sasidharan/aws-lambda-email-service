@@ -24,7 +24,7 @@ This repository contains a serverless application designed to process form submi
    npm install
    ```
 
-3. **Create Resend API Key**
+3. **Create a Resend API Key**
 - Sign up at [Resend](https://resend.io) and generate an API key. Verify your domain name to fully utilize the Resend API.
 
 4. **Local Testing**
@@ -59,6 +59,8 @@ Send a POST request to the deployed API with the following JSON structure:
   "message": "Message"
 }
 ```
+
+This will give you a starting point to implement a full-fledged email service for your app.
 
 ### Support
 
