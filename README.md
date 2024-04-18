@@ -64,5 +64,5 @@ This will give you a starting point to implement a full-fledged email service fo
 
 ### Support
 
-For more information, support, questions, or feedback, please reach out to me via email at [mail@chandu-sasidharan.de](mailto:mail@chandu-sasidharan.de).
+For support, questions, or feedback, reach out to me via email at [mail@chandu-sasidharan.de](mailto:mail@chandu-sasidharan.de).
 
